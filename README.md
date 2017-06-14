@@ -9,7 +9,7 @@ Here is a screenshot.
 
 
 
-
+Still working on second version: (Winter is coming, can't wait for the new season!)
 ![](https://storage.googleapis.com/webapp01-149600.appspot.com/github/wolf.gif)
 
 Youtube Video:
