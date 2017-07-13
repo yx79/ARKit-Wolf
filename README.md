@@ -4,6 +4,7 @@
 Welcome to my ARKit demo repo.
 
 You need to download Xcode 9 and update your iPhone/iPad to iOS 11.
+
 Only iPhone6s, iPad Pro and new A9 products support ARKit.
 
 Apple official doc:
