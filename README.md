@@ -26,6 +26,13 @@ ARKit Demo App: Placing Objects in Augmented Reality
 
 https://developer.apple.com/sample-code/wwdc/2017/PlacingObjects.zip
 
+WWDC Video Tutorial:
+
+https://developer.apple.com/videos/play/wwdc2017/602/
+
+
+
+
 
 3D wolf .dae file can be edited with free Blender software:
 https://www.blender.org/
