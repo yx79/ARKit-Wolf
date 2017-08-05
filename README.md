@@ -19,6 +19,10 @@ Only iPhone6s/7, iPad Pro with new A9-chip products support ARKit.
 
 Apple official doc:
 https://developer.apple.com/arkit/
+Apple official Demo App:
+ARKit Demo App: Placing Objects in Augmented Reality
+https://developer.apple.com/sample-code/wwdc/2017/PlacingObjects.zip
+
 
 3D wolf .dae file can be edited with free Blender software:
 https://www.blender.org/
